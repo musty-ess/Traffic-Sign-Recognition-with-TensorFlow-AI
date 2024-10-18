@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this project, we implement a neural network using TensorFlow to classify images of traffic signs from the German Traffic Sign Recognition Benchmark (GTSRB) dataset. The goal is to develop a model that can accurately identify different types of traffic signs, such as stop signs, speed limit signs, and yield signs, among others.
+This project implements a neural network using TensorFlow to classify images of traffic signs from the German Traffic Sign Recognition Benchmark (GTSRB) dataset. The model accurately identifies different types of traffic signs, such as stop signs, speed limit signs, and yield signs, among others.
 
 ## Getting Started
 
